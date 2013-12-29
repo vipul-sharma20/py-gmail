@@ -13,4 +13,4 @@ Requirements
       * Go to https://support.google.com/mail/answer/1173270?hl=en and click on the link  Authorizing applications & sites         page
       * At the bottom - in the "generate application specific password" section, in the name field type SMTP and generate         the password just copy and paste the generated password in the password variable in the script
         For eg : if your generated password is "bfowdafbynfwfgmz" , then paste this password in the password variable of 
-                 the script password = "bfowdafbynfwfgmy" and this will be the password for your gmail id if "You have 2                   step verification activated"
+                 the script password = "bfowdafbynfwfgmz" and this will be the password for your gmail id if "You have 2                   step verification activated"
